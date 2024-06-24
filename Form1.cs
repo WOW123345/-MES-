@@ -16,7 +16,7 @@ namespace 스마트팩토리_MES_프로젝트
     public partial class Form1 : Form
     {
         public Form1()
-        {
+        { //test
             InitializeComponent();
         }
 
